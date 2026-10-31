@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-something about myself
+HW7 - write something about myself
